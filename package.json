@@ -1,0 +1,22 @@
+{
+  "name": "cocos-node-build-template",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node ./node_modules/nodemon/bin/nodemon.js --watch build/web-mobile/index.html app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gch116620/cocos-node-build-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "http-proxy-middleware": "^1.0.5",
+    "nodemon": "^2.0.4"
+  }
+}

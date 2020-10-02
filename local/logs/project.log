@@ -1,0 +1,117 @@
+2020-10-02T09:15:44.624Z - normal: Load ~/.CocosCreator/settings.json
+2020-10-02T09:15:44.688Z - normal: Initializing Asset Database
+2020-10-02T09:15:44.692Z - normal: checking language setting...
+2020-10-02T09:15:44.692Z - normal: Language: zh
+2020-10-02T09:15:47.609Z - success: protocol editor-framework registered
+2020-10-02T09:15:47.609Z - success: protocol app registered
+2020-10-02T09:15:47.609Z - success: protocol theme registered
+2020-10-02T09:15:47.610Z - success: protocol packages registered
+2020-10-02T09:15:47.610Z - success: protocol uuid registerred
+2020-10-02T09:15:47.610Z - success: protocol db registerred
+2020-10-02T09:15:47.611Z - success: protocol thumbnail registerred
+2020-10-02T09:15:47.611Z - success: protocol unpack registerred
+2020-10-02T09:15:47.611Z - success: protocol disable-commonjs registerred
+2020-10-02T09:15:47.766Z - normal: connected!
+2020-10-02T09:15:47.767Z - normal: Check project /Users/chasen/Documents/projects/cocos-node-build-template
+2020-10-02T09:15:47.770Z - normal: Initializing project /Users/chasen/Documents/projects/cocos-node-build-template
+2020-10-02T09:15:48.150Z - success: adapters loaded
+2020-10-02T09:15:48.155Z - success: asset-db-debugger loaded
+2020-10-02T09:15:48.376Z - success: fb-audience-network loaded
+2020-10-02T09:15:48.417Z - success: fb-live-stream loaded
+2020-10-02T09:15:48.419Z - success: google-play-instant loaded
+2020-10-02T09:15:48.420Z - success: jsb-adapter loaded
+2020-10-02T09:15:48.426Z - success: package-manager loaded
+2020-10-02T09:15:48.428Z - success: runtime-adapters loaded
+2020-10-02T09:15:48.433Z - success: runtime-dev-tools loaded
+2020-10-02T09:15:48.437Z - success: ui-kit-preview-extra loaded
+2020-10-02T09:15:48.443Z - success: ui-kit-preview loaded
+2020-10-02T09:15:48.629Z - success: alipay-minigame loaded
+2020-10-02T09:15:48.967Z - success: assets loaded
+2020-10-02T09:15:48.970Z - success: baidugame-opendata loaded
+2020-10-02T09:15:48.972Z - success: baidugame loaded
+2020-10-02T09:15:48.982Z - success: builder loaded
+2020-10-02T09:15:48.985Z - success: bytedance-opendata loaded
+2020-10-02T09:15:48.988Z - success: bytedance loaded
+2020-10-02T09:15:48.991Z - success: channel-upload-tools loaded
+2020-10-02T09:15:49.003Z - success: cloud-function loaded
+2020-10-02T09:15:49.527Z - success: cocos-services loaded
+2020-10-02T09:15:49.543Z - success: console loaded
+2020-10-02T09:15:49.548Z - success: curve-editor loaded
+2020-10-02T09:15:49.584Z - success: fb-instant-games loaded
+2020-10-02T09:15:49.589Z - success: game-window loaded
+2020-10-02T09:15:49.592Z - success: google-instant-games loaded
+2020-10-02T09:15:49.602Z - success: hierarchy loaded
+2020-10-02T09:15:49.605Z - success: huawei-agc loaded
+2020-10-02T09:15:49.613Z - success: huawei-runtime loaded
+2020-10-02T09:15:49.620Z - success: inspector loaded
+2020-10-02T09:15:49.713Z - success: cpk-publish loaded
+2020-10-02T09:15:49.714Z - success: keystore loaded
+2020-10-02T09:15:49.737Z - success: link-sure-runtime loaded
+2020-10-02T09:15:49.758Z - success: node-library loaded
+2020-10-02T09:15:49.759Z - success: open-recent-items loaded
+2020-10-02T09:15:49.762Z - success: oppo-runtime loaded
+2020-10-02T09:15:49.765Z - success: package-asset loaded
+2020-10-02T09:15:49.766Z - success: preferences loaded
+2020-10-02T09:15:49.774Z - success: project-importer loaded
+2020-10-02T09:15:49.780Z - success: project-settings loaded
+2020-10-02T09:15:49.804Z - success: qtt-runtime loaded
+2020-10-02T09:15:49.810Z - success: scene loaded
+2020-10-02T09:15:49.811Z - success: simulator-debugger loaded
+2020-10-02T09:15:49.811Z - success: sprite-editor loaded
+2020-10-02T09:15:49.999Z - success: store loaded
+2020-10-02T09:15:50.005Z - success: timeline loaded
+2020-10-02T09:15:50.010Z - success: vivo-runtime loaded
+2020-10-02T09:15:50.012Z - success: wechatgame-opendata loaded
+2020-10-02T09:15:50.016Z - success: wechatgame loaded
+2020-10-02T09:15:50.020Z - success: xiaomi-runtime loaded
+2020-10-02T09:15:50.403Z - success: im-plugin loaded
+2020-10-02T09:15:50.410Z - success: preview server running at http://localhost:7456
+2020-10-02T09:15:51.947Z - info: Cocos Service load base data!
+2020-10-02T09:16:01.536Z - normal: Initializing Cocos2d
+2020-10-02T09:16:02.364Z - normal: Initializing engine extends
+2020-10-02T09:16:07.858Z - info: 插件脚本在编辑器中加载时，在最外层用 var 声明的变量将不再做为全局变量。如果不需要在编辑器中加载插件，则直接取消"允许编辑器加载"即可，否则请改用 "window.xx = yy;" 来定义全局变量。 😂
+插件脚本："/Users/chasen/Documents/projects/cocos-node-build-template/assets/Script/utils/generator-runtime.js"
+所在行："var runtime = (function (exports) {"
+2020-10-02T09:16:10.336Z - normal: Loading packages
+2020-10-02T09:16:10.345Z - normal: Watching packages
+2020-10-02T09:16:10.784Z - normal: Run Application
+2020-10-02T09:18:27.009Z - failed: load script [./utils/request] failed : Error: Cannot find module './utils/request'
+Require stack:
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/lib/sandbox.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/edit-mode/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/editor.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/renderer.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/index.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:683:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:43:12)
+    at Function.c._resolveFilename (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1272)
+    at Function.Module._load (internal/modules/cjs/loader.js:601:27)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.cc.require (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:689)
+    at __require (/Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:7:35)
+    at __define (/Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:18:39)
+    at /Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:42:25
+2020-10-02T09:18:36.321Z - failed: load script [./utils/request] failed : Error: Cannot find module './utils/request'
+Require stack:
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/lib/sandbox.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/edit-mode/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/scene-utils/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/editor.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/index.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor-framework/renderer.js
+- /Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/index.html
+    at Module._resolveFilename (internal/modules/cjs/loader.js:683:15)
+    at Function.Module._resolveFilename [as _resolveFilenameVendor] (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/electron.asar/common/reset-search-paths.js:43:12)
+    at Function.c._resolveFilename (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:1272)
+    at Function.Module._load (internal/modules/cjs/loader.js:601:27)
+    at Module.require (internal/modules/cjs/loader.js:739:19)
+    at require (internal/modules/cjs/helpers.js:14:16)
+    at Object.cc.require (/Applications/CocosCreator/Creator/2.4.2/CocosCreator.app/Contents/Resources/app.asar/editor/page/project-scripts.js:1:689)
+    at __require (/Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:7:35)
+    at __define (/Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:18:39)
+    at /Users/chasen/Documents/projects/cocos-node-build-template/temp/quick-scripts/dst/assets/Script/defaultScene.js:42:25
